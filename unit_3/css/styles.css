@@ -3,6 +3,7 @@ body {background-color: #FFF9E6;
 	font-family: serif;
 font-style: normal;
 font-size: 14pt; 
+text-align: center;
 }
 
 h1{font-size: 36pt;}
@@ -15,4 +16,5 @@ text-decoration: underline;
 }
 
 li{font-style: italic;
+	list-style-type: none;
 }
