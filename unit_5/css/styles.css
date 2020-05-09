@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@500&family=Roboto+Slab&display=swap');
+
+header {
+	background-color: #FFED74
+}
+
+nav {
+	background-color: #E8C66A
+}
+
+
+footer{
+	background-color: #FFE2B8
+}
+
+
+body {
+	font-family: 'Roboto Slab', serif;
+	background-color: #FFF9E6;
+	color: #999999;
+	font-style: normal;
+	font-size: 14pt; 
+	text-align: center;
+}
+
+h1{
+	font-size: 36pt;
+	font-family: 'Noto Sans JP', sans-serif;}
+
+li{
+	font-style: italic;
+	list-style-type: none;
+}
+
+
+#wrapper{
+	align-content: center;
+}
+
+#hero-module {
+	background-color: #FFC675
+}
+
+#content-module {
+	background-color: #E89C6C
+}
+
+#subscribe {
+	background-color: #FF957E
+}	
+
+#slogan {
+	font-size: 26pt;
+	font-style: italic;
+	font-weight: bold;
+	color: #2073E8;
+	text-decoration: underline;
+}
+
